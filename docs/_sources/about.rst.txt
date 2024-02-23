@@ -1,10 +1,23 @@
 About Us
 ========
 
-The Digital Twin lab is part of ...
+The Digital Twin lab is part of the `Reliable System research group <https://www.mn.uio.no/ifi/english/research/groups/psy/>`_, led by `Einar Broch Johnsen <https://www.ebjohnsen.org>`_ at the University of Oslo.
+The laboratory is managed by `Eduard Kamburjan <https://edkamb.github.org>`_, while the projects are conducted by their members.
+Further contributors to laboratory, projects and general infrastructure are
+ * Chinmayi Baramashetru
+ * Andrea Pferscher
+ * Rudolf Schlatte
+ * Riccardo Sieve 
+ * André Finstad
+ * Vebjørn Olsen Leihne
+ * Mariann Løtvedt
+ * Janaaththan Muthiah Manokaran
+ * Ingvild Emilie Øvsthus
+ * Sander Sigmundstad
+ * Marco Amato 
+ * Gianluca Barmina
+ * Eduard Occhipinti
 
-The laboratory is managed by ...
-
-Contributors and members are ...
-
-Funding for parts of the lab and laboratory was provided by ...
+Funding for parts of the lab and laboratory was provided by
+ * The RCN Project PeTWIN
+ * *todo: list here*
