@@ -48,7 +48,7 @@ exclude_patterns = []
 html_theme = 'piccolo_theme'
 
 html_theme_options = {
-    "source_url": 'https://github.com/smolang/twinlab/'
+    "source_url": 'https://github.com/PSY-Digital-Twin-Lab/psy-digital-twin-lab.github.io/docs'
 }
 
 
